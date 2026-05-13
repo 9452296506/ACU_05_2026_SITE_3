@@ -1,4 +1,4 @@
-# Bionetic — Landing Page (Wariant 3)
+ACU_05_2026_SITE_3 — Strona Bionetic
 
 ---
 
